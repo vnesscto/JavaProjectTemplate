@@ -7,7 +7,7 @@ import pages.TestProjectLoginPage;
 /**
  * This class used for page initialization.
  */
-public class ManagePages {
+public class PageInitializer {
 
     // Web Pages
     public static TestProjectLoginPage testProjectLoginPage;

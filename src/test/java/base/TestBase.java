@@ -19,15 +19,15 @@ public class TestBase extends DriverManager {
         initDriver();
         switch (Constants.PLATFORM.toLowerCase()) {
             case "web":
-                ManagePages.initWebPages();
+                PageInitializer.initWebPages();
                 Log.info("Initializing web pages");
                 break;
             case "desktop":
-                ManagePages.initDesktopPages();
+                PageInitializer.initDesktopPages();
                 Log.info("Initializing desktop pages");
                 break;
             case "mobile":
-                //ManagePages.initMobilePages();
+                //PageInitializer.initMobilePages();
                 Log.info("Initializing mobile pages");
                 break;
         }

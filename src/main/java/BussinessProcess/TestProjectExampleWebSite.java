@@ -4,7 +4,7 @@ import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import utils.CommonMethods;
 import utils.Constants;
-import utils.ManagePages;
+import utils.PageInitializer;
 import utils.WaitForHelper;
 
 
@@ -21,13 +21,13 @@ public class TestProjectExampleWebSite {
      */
     @Step("Login process")
     public static Boolean loginToTestProject(WebDriver driver) {
-        ManagePages.testProjectLoginPage.goToURL("https://example.testproject.io/web/");
-        CommonMethods.sendText(ManagePages.testProjectLoginPage.getUserNameElement(), Constants.USER_NAME);
-        CommonMethods.sendText(ManagePages.testProjectLoginPage.getPasswordElement(), Constants.PASSWORD);
-        CommonMethods.click(ManagePages.testProjectLoginPage.getLoginBtnElement());
+        PageInitializer.testProjectLoginPage.goToURL("https://example.testproject.io/web/");
+        CommonMethods.sendText(PageInitializer.testProjectLoginPage.getUserNameElement(), Constants.USER_NAME);
+        CommonMethods.sendText(PageInitializer.testProjectLoginPage.getPasswordElement(), Constants.PASSWORD);
+        CommonMethods.click(PageInitializer.testProjectLoginPage.getLoginBtnElement());
 
-        new WaitForHelper(driver).presenceOfTheElement(ManagePages.testProjectLoginPage.getLogOutBtnElement());
-        return ManagePages.testProjectLoginPage.getLogOutBtnElement().isDisplayed();
+        new WaitForHelper(driver).presenceOfTheElement(PageInitializer.testProjectLoginPage.getLogOutBtnElement());
+        return PageInitializer.testProjectLoginPage.getLogOutBtnElement().isDisplayed();
     }
 
     /**
@@ -38,13 +38,13 @@ public class TestProjectExampleWebSite {
      */
     @Step("Fill Test Project example form")
     public static String fillTestProjectForm(WebDriver driver) {
-        CommonMethods.selectDropDownByText(ManagePages.testProjectFormPage.getCountries(), Constants.COUNTRY_TO_SELECT);
-        CommonMethods.sendText(ManagePages.testProjectFormPage.getAddressElement(), Constants.ADDRESS);
-        CommonMethods.sendText(ManagePages.testProjectFormPage.getEmailElement(), Constants.EMAIL);
-        CommonMethods.sendText(ManagePages.testProjectFormPage.getPhoneElement(), Constants.PHONE_NUMBER);
-        CommonMethods.click(ManagePages.testProjectFormPage.getSaveButtonElement());
+        CommonMethods.selectDropDownByText(PageInitializer.testProjectFormPage.getCountries(), Constants.COUNTRY_TO_SELECT);
+        CommonMethods.sendText(PageInitializer.testProjectFormPage.getAddressElement(), Constants.ADDRESS);
+        CommonMethods.sendText(PageInitializer.testProjectFormPage.getEmailElement(), Constants.EMAIL);
+        CommonMethods.sendText(PageInitializer.testProjectFormPage.getPhoneElement(), Constants.PHONE_NUMBER);
+        CommonMethods.click(PageInitializer.testProjectFormPage.getSaveButtonElement());
 
-        new WaitForHelper(driver).presenceOfTheElement(ManagePages.testProjectFormPage.getConfirmMessageElement());
-        return ManagePages.testProjectFormPage.getConfirmMessageElement().getText();
+        new WaitForHelper(driver).presenceOfTheElement(PageInitializer.testProjectFormPage.getConfirmMessageElement());
+        return PageInitializer.testProjectFormPage.getConfirmMessageElement().getText();
     }
 }
