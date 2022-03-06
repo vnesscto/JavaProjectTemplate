@@ -1,0 +1,263 @@
+2022-09-05 18:09:25.429 [main] INFO  utils.Log - Setting up driver
+2022-09-05 18:09:25.443 [main] INFO  utils.Log - Initializing Web Driver
+2022-09-05 18:09:25.443 [main] INFO  utils.Log - Found chrome as Browser
+2022-09-05 18:09:29.868 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:29.868 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:29.869 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-09-05 18:09:29.870 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:29.870 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:40.110 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:40.110 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:40.111 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-09-05 18:09:40.111 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:40.111 [main] INFO  utils.Log - ****************************************************************************************
+2022-09-05 18:09:41.422 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-09-05 18:09:41.422 [main] INFO  utils.Log - X
+2022-09-05 18:09:41.422 [main] INFO  utils.Log - X
+2022-09-05 18:09:41.422 [main] INFO  utils.Log - X
+2022-09-05 18:09:41.422 [main] INFO  utils.Log - X
+2022-09-05 18:09:41.432 [main] INFO  utils.Log - Closing driver
+2022-11-05 18:11:44.885 [main] INFO  utils.Log - Setting up driver
+2022-11-05 18:11:44.902 [main] INFO  utils.Log - Initializing Web Driver
+2022-11-05 18:11:44.902 [main] INFO  utils.Log - Found chrome as Browser
+2022-11-05 18:11:48.733 [main] INFO  utils.Log - ****************************************************************************************
+2022-11-05 18:11:48.733 [main] INFO  utils.Log - ****************************************************************************************
+2022-11-05 18:11:48.733 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-11-05 18:11:48.734 [main] INFO  utils.Log - ****************************************************************************************
+2022-11-05 18:11:48.734 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:16.609 [main] INFO  utils.Log - Setting up driver
+2022-12-05 18:12:16.617 [main] INFO  utils.Log - Initializing Web Driver
+2022-12-05 18:12:16.618 [main] INFO  utils.Log - Found chrome as Browser
+2022-12-05 18:12:19.941 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:19.942 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:19.942 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-12-05 18:12:19.942 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:19.943 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:21.393 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-12-05 18:12:21.393 [main] INFO  utils.Log - X
+2022-12-05 18:12:21.393 [main] INFO  utils.Log - X
+2022-12-05 18:12:21.393 [main] INFO  utils.Log - X
+2022-12-05 18:12:21.393 [main] INFO  utils.Log - X
+2022-12-05 18:12:21.543 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:21.544 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:21.544 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-12-05 18:12:21.544 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:21.544 [main] INFO  utils.Log - ****************************************************************************************
+2022-12-05 18:12:23.639 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-12-05 18:12:23.639 [main] INFO  utils.Log - X
+2022-12-05 18:12:23.639 [main] INFO  utils.Log - X
+2022-12-05 18:12:23.640 [main] INFO  utils.Log - X
+2022-12-05 18:12:23.640 [main] INFO  utils.Log - X
+2022-12-05 18:12:23.647 [main] INFO  utils.Log - Closing driver
+2022-19-05 18:19:36.231 [main] INFO  utils.Log - Setting up driver
+2022-19-05 18:19:36.245 [main] INFO  utils.Log - Initializing Web Driver
+2022-19-05 18:19:36.245 [main] INFO  utils.Log - Found chrome as Browser
+2022-19-05 18:19:39.752 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:39.752 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:39.753 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-19-05 18:19:39.753 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:39.753 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:41.142 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-19-05 18:19:41.142 [main] INFO  utils.Log - X
+2022-19-05 18:19:41.142 [main] INFO  utils.Log - X
+2022-19-05 18:19:41.142 [main] INFO  utils.Log - X
+2022-19-05 18:19:41.142 [main] INFO  utils.Log - X
+2022-19-05 18:19:41.336 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:41.337 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:41.337 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-19-05 18:19:41.337 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:41.338 [main] INFO  utils.Log - ****************************************************************************************
+2022-19-05 18:19:43.621 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-19-05 18:19:43.621 [main] INFO  utils.Log - X
+2022-19-05 18:19:43.622 [main] INFO  utils.Log - X
+2022-19-05 18:19:43.622 [main] INFO  utils.Log - X
+2022-19-05 18:19:43.623 [main] INFO  utils.Log - X
+2022-19-05 18:19:43.633 [main] INFO  utils.Log - Closing driver
+2022-21-05 18:21:43.296 [main] INFO  utils.Log - Setting up driver
+2022-21-05 18:21:43.303 [main] INFO  utils.Log - Initializing Web Driver
+2022-21-05 18:21:43.303 [main] INFO  utils.Log - Found chrome as Browser
+2022-21-05 18:21:46.589 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:46.590 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:46.590 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-21-05 18:21:46.590 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:46.591 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:47.938 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-21-05 18:21:47.938 [main] INFO  utils.Log - X
+2022-21-05 18:21:47.938 [main] INFO  utils.Log - X
+2022-21-05 18:21:47.938 [main] INFO  utils.Log - X
+2022-21-05 18:21:47.938 [main] INFO  utils.Log - X
+2022-21-05 18:21:48.094 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:48.094 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:48.094 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-21-05 18:21:48.095 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:48.095 [main] INFO  utils.Log - ****************************************************************************************
+2022-21-05 18:21:50.330 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-21-05 18:21:50.331 [main] INFO  utils.Log - X
+2022-21-05 18:21:50.331 [main] INFO  utils.Log - X
+2022-21-05 18:21:50.331 [main] INFO  utils.Log - X
+2022-21-05 18:21:50.332 [main] INFO  utils.Log - X
+2022-21-05 18:21:50.339 [main] INFO  utils.Log - Closing driver
+2022-24-05 19:24:17.244 [main] INFO  utils.Log - Setting up driver
+2022-24-05 19:24:17.254 [main] INFO  utils.Log - Initializing Web Driver
+2022-24-05 19:24:17.254 [main] INFO  utils.Log - Found chrome as Browser
+2022-24-05 19:24:22.759 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:22.760 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:22.760 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-24-05 19:24:22.761 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:22.761 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:24.658 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-24-05 19:24:24.659 [main] INFO  utils.Log - X
+2022-24-05 19:24:24.659 [main] INFO  utils.Log - X
+2022-24-05 19:24:24.659 [main] INFO  utils.Log - X
+2022-24-05 19:24:24.660 [main] INFO  utils.Log - X
+2022-24-05 19:24:24.833 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:24.833 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:24.833 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-24-05 19:24:24.833 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:24.834 [main] INFO  utils.Log - ****************************************************************************************
+2022-24-05 19:24:28.152 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-24-05 19:24:28.152 [main] INFO  utils.Log - X
+2022-24-05 19:24:28.152 [main] INFO  utils.Log - X
+2022-24-05 19:24:28.153 [main] INFO  utils.Log - X
+2022-24-05 19:24:28.153 [main] INFO  utils.Log - X
+2022-24-05 19:24:28.160 [main] INFO  utils.Log - Closing driver
+2022-34-06 14:34:31.315 [main] INFO  utils.Log - Setting up driver
+2022-34-06 14:34:31.329 [main] INFO  utils.Log - Initializing Web Driver
+2022-34-06 14:34:31.329 [main] INFO  utils.Log - Found chrome as Browser
+2022-34-06 14:34:45.302 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:45.303 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:45.303 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-34-06 14:34:45.304 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:45.304 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:46.878 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-34-06 14:34:46.878 [main] INFO  utils.Log - X
+2022-34-06 14:34:46.878 [main] INFO  utils.Log - X
+2022-34-06 14:34:46.878 [main] INFO  utils.Log - X
+2022-34-06 14:34:46.878 [main] INFO  utils.Log - X
+2022-34-06 14:34:47.047 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:47.047 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:47.048 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-34-06 14:34:47.048 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:47.048 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-06 14:34:49.157 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-34-06 14:34:49.157 [main] INFO  utils.Log - X
+2022-34-06 14:34:49.158 [main] INFO  utils.Log - X
+2022-34-06 14:34:49.158 [main] INFO  utils.Log - X
+2022-34-06 14:34:49.158 [main] INFO  utils.Log - X
+2022-34-06 14:34:49.165 [main] INFO  utils.Log - Closing driver
+2022-36-06 14:36:21.128 [main] INFO  utils.Log - Setting up driver
+2022-36-06 14:36:21.140 [main] INFO  utils.Log - Initializing Web Driver
+2022-36-06 14:36:21.141 [main] INFO  utils.Log - Found chrome as Browser
+2022-36-06 14:36:26.014 [main] INFO  utils.Log - Initializing web pages
+2022-36-06 14:36:26.134 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:26.135 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:26.135 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-36-06 14:36:26.135 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:26.136 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:27.660 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-36-06 14:36:27.660 [main] INFO  utils.Log - X
+2022-36-06 14:36:27.661 [main] INFO  utils.Log - X
+2022-36-06 14:36:27.661 [main] INFO  utils.Log - X
+2022-36-06 14:36:27.661 [main] INFO  utils.Log - X
+2022-36-06 14:36:27.852 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:27.852 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:27.853 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-36-06 14:36:27.854 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:27.854 [main] INFO  utils.Log - ****************************************************************************************
+2022-36-06 14:36:30.043 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-36-06 14:36:30.043 [main] INFO  utils.Log - X
+2022-36-06 14:36:30.043 [main] INFO  utils.Log - X
+2022-36-06 14:36:30.043 [main] INFO  utils.Log - X
+2022-36-06 14:36:30.043 [main] INFO  utils.Log - X
+2022-36-06 14:36:30.050 [main] INFO  utils.Log - Closing driver
+2022-39-06 14:39:36.162 [main] INFO  utils.Log - Setting up driver
+2022-39-06 14:39:36.175 [main] INFO  utils.Log - Initializing Web Driver
+2022-39-06 14:39:36.175 [main] INFO  utils.Log - Found chrome as Browser
+2022-39-06 14:39:40.797 [main] INFO  utils.Log - Initializing web pages
+2022-39-06 14:39:40.915 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:40.915 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:40.916 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-39-06 14:39:40.916 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:40.916 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:42.218 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-39-06 14:39:42.219 [main] INFO  utils.Log - X
+2022-39-06 14:39:42.219 [main] INFO  utils.Log - X
+2022-39-06 14:39:42.219 [main] INFO  utils.Log - X
+2022-39-06 14:39:42.219 [main] INFO  utils.Log - X
+2022-39-06 14:39:42.414 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:42.414 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:42.415 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-39-06 14:39:42.415 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:42.415 [main] INFO  utils.Log - ****************************************************************************************
+2022-39-06 14:39:44.661 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-39-06 14:39:44.661 [main] INFO  utils.Log - X
+2022-39-06 14:39:44.661 [main] INFO  utils.Log - X
+2022-39-06 14:39:44.661 [main] INFO  utils.Log - X
+2022-39-06 14:39:44.662 [main] INFO  utils.Log - X
+2022-39-06 14:39:44.673 [main] INFO  utils.Log - Closing driver
+2022-15-06 15:15:14.369 [main] INFO  utils.Log - Setting up driver
+2022-15-06 15:15:14.380 [main] INFO  utils.Log - Initializing Web Driver
+2022-15-06 15:15:14.380 [main] INFO  utils.Log - Found chrome as Browser
+2022-15-06 15:15:18.753 [main] INFO  utils.Log - Initializing web pages
+2022-15-06 15:15:19.261 [main] INFO  utils.Log - Closing driver
+2022-15-06 15:15:48.243 [main] INFO  utils.Log - Setting up driver
+2022-15-06 15:15:48.256 [main] INFO  utils.Log - Initializing Windows Driver
+2022-16-06 15:16:05.350 [main] INFO  utils.Log - Setting up driver
+2022-16-06 15:16:05.361 [main] INFO  utils.Log - Initializing Windows Driver
+2022-16-06 15:16:08.795 [main] INFO  utils.Log - Closing driver
+2022-19-06 15:19:15.697 [main] INFO  utils.Log - Setting up driver
+2022-19-06 15:19:15.713 [main] INFO  utils.Log - Initializing Windows Driver
+2022-19-06 15:19:19.532 [main] INFO  utils.Log - Closing driver
+2022-22-06 15:22:32.952 [main] INFO  utils.Log - Setting up driver
+2022-22-06 15:22:32.965 [main] INFO  utils.Log - Initializing Windows Driver
+2022-22-06 15:22:36.366 [main] INFO  utils.Log - Closing driver
+2022-29-06 15:29:59.593 [main] INFO  utils.Log - Setting up driver
+2022-29-06 15:29:59.607 [main] INFO  utils.Log - Initializing Windows Driver
+2022-30-06 15:30:03.343 [main] INFO  utils.Log - Closing driver
+2022-32-06 15:32:33.963 [main] INFO  utils.Log - Setting up driver
+2022-32-06 15:32:33.977 [main] INFO  utils.Log - Initializing Windows Driver
+2022-32-06 15:32:37.690 [main] INFO  utils.Log - Closing driver
+2022-36-06 15:36:03.126 [main] INFO  utils.Log - Setting up driver
+2022-36-06 15:36:03.142 [main] INFO  utils.Log - Initializing Windows Driver
+2022-36-06 15:36:06.855 [main] INFO  utils.Log - Closing driver
+2022-43-06 15:43:38.545 [main] INFO  utils.Log - Setting up driver
+2022-43-06 15:43:38.558 [main] INFO  utils.Log - Initializing Windows Driver
+2022-43-06 15:43:42.051 [main] INFO  utils.Log - Closing driver
+2022-47-06 15:47:24.113 [main] INFO  utils.Log - Setting up driver
+2022-47-06 15:47:24.125 [main] INFO  utils.Log - Initializing Windows Driver
+2022-47-06 15:47:27.539 [main] INFO  utils.Log - Closing driver
+2022-53-06 15:53:10.711 [main] INFO  utils.Log - Setting up driver
+2022-53-06 15:53:10.724 [main] INFO  utils.Log - Initializing Windows Driver
+2022-53-06 15:53:14.652 [main] INFO  utils.Log - Initializing desktop pages
+2022-53-06 15:53:18.120 [main] INFO  utils.Log - Closing driver
+2022-00-06 16:00:02.016 [main] INFO  utils.Log - Setting up driver
+2022-00-06 16:00:02.029 [main] INFO  utils.Log - Initializing Windows Driver
+2022-00-06 16:00:05.850 [main] INFO  utils.Log - Closing driver
+2022-00-06 16:00:21.036 [main] INFO  utils.Log - Setting up driver
+2022-00-06 16:00:21.047 [main] INFO  utils.Log - Initializing Windows Driver
+2022-00-06 16:00:24.039 [main] INFO  utils.Log - Initializing desktop pages
+2022-00-06 16:00:24.210 [main] INFO  utils.Log - ****************************************************************************************
+2022-00-06 16:00:24.211 [main] INFO  utils.Log - ****************************************************************************************
+2022-00-06 16:00:24.212 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 additionTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-00-06 16:00:24.212 [main] INFO  utils.Log - ****************************************************************************************
+2022-00-06 16:00:24.212 [main] INFO  utils.Log - ****************************************************************************************
+2022-00-06 16:00:27.351 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-00-06 16:00:27.351 [main] INFO  utils.Log - X
+2022-00-06 16:00:27.352 [main] INFO  utils.Log - X
+2022-00-06 16:00:27.352 [main] INFO  utils.Log - X
+2022-00-06 16:00:27.352 [main] INFO  utils.Log - X
+2022-00-06 16:00:27.581 [main] INFO  utils.Log - Closing driver
+2022-05-06 16:05:49.649 [main] INFO  utils.Log - Setting up driver
+2022-05-06 16:05:49.659 [main] INFO  utils.Log - Initializing Windows Driver
+2022-05-06 16:05:52.510 [main] INFO  utils.Log - Initializing desktop pages
+2022-05-06 16:05:52.692 [main] INFO  utils.Log - ****************************************************************************************
+2022-05-06 16:05:52.693 [main] INFO  utils.Log - ****************************************************************************************
+2022-05-06 16:05:52.693 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 additionTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-05-06 16:05:52.693 [main] INFO  utils.Log - ****************************************************************************************
+2022-05-06 16:05:52.694 [main] INFO  utils.Log - ****************************************************************************************
+2022-05-06 16:05:55.666 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
+2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
+2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
+2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
+2022-05-06 16:05:55.910 [main] INFO  utils.Log - Closing driver

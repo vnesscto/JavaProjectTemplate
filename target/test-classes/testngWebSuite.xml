@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestProject suite" verbose="1">
+    <test name="Test Project Login and Form fill Sample">
+        <classes>
+            <class name="tests.TestLoginSample"/>
+        </classes>
+    </test>
+</suite>
