@@ -1,7 +1,7 @@
 package tests;
 
 
-import BussinessProcess.CalculatorExample;
+import bussinessprocess.CalculatorExample;
 import base.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;

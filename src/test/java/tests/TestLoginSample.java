@@ -1,6 +1,6 @@
 package tests;
 
-import BussinessProcess.TestProjectExampleWebSite;
+import bussinessprocess.TestProjectExampleWebSite;
 import base.TestBase;
 import io.qameta.allure.Description;
 import org.testng.Assert;

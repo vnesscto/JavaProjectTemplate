@@ -1,4 +1,4 @@
-package BussinessProcess;
+package bussinessprocess;
 
 import io.qameta.allure.Step;
 import utils.CommonMethods;
