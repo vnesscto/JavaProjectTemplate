@@ -18,7 +18,7 @@ public class PropertyReader {
      * @return the property string value.
      */
     public static String readConfigItem(String propertyName) {
-        return readItemFromFile("config path", propertyName);
+        return readItemFromFile(Constants.CONFIG_PATH, propertyName);
     }
 
     /**
@@ -29,7 +29,7 @@ public class PropertyReader {
      * @return the property string value.
      */
     public static String readElementsRepoItem(String propertyName) {
-        return readItemFromFile("src/main/resources/elementsRepo.properties", propertyName);
+        return readItemFromFile(Constants.ELEMENT_REPO_PATH, propertyName);
     }
 
     /**

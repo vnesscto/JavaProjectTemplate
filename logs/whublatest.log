@@ -261,3 +261,82 @@
 2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
 2022-05-06 16:05:55.667 [main] INFO  utils.Log - X
 2022-05-06 16:05:55.910 [main] INFO  utils.Log - Closing driver
+2022-24-07 11:24:06.643 [main] INFO  utils.Log - Setting up driver
+2022-24-07 11:24:06.653 [main] INFO  utils.Log - Initializing Appium Driver
+2022-24-07 11:24:27.868 [main] INFO  utils.Log - Initializing mobile pages
+2022-24-07 11:24:32.783 [main] INFO  utils.Log - Closing driver
+2022-26-07 11:26:47.054 [main] INFO  utils.Log - Setting up driver
+2022-26-07 11:26:47.066 [main] INFO  utils.Log - Initializing Appium Driver
+2022-27-07 11:27:07.521 [main] INFO  utils.Log - Initializing mobile pages
+2022-27-07 11:27:11.309 [main] INFO  utils.Log - Closing driver
+2022-30-07 11:30:22.617 [main] INFO  utils.Log - Setting up driver
+2022-30-07 11:30:22.628 [main] INFO  utils.Log - Initializing Appium Driver
+2022-30-07 11:30:41.115 [main] INFO  utils.Log - Initializing mobile pages
+2022-30-07 11:30:46.939 [main] INFO  utils.Log - Closing driver
+2022-32-07 11:32:26.340 [main] INFO  utils.Log - Setting up driver
+2022-32-07 11:32:26.351 [main] INFO  utils.Log - Initializing Appium Driver
+2022-32-07 11:32:46.809 [main] INFO  utils.Log - Initializing mobile pages
+2022-32-07 11:32:58.567 [main] INFO  utils.Log - Closing driver
+2022-34-07 11:34:32.382 [main] INFO  utils.Log - Setting up driver
+2022-34-07 11:34:32.392 [main] INFO  utils.Log - Initializing Appium Driver
+2022-34-07 11:34:51.418 [main] INFO  utils.Log - Initializing mobile pages
+2022-35-07 11:35:15.755 [main] INFO  utils.Log - Closing driver
+2022-36-07 11:36:17.927 [main] INFO  utils.Log - Setting up driver
+2022-36-07 11:36:17.936 [main] INFO  utils.Log - Initializing Appium Driver
+2022-36-07 11:36:37.629 [main] INFO  utils.Log - Initializing mobile pages
+2022-36-07 11:36:42.171 [main] INFO  utils.Log - Closing driver
+2022-37-07 11:37:51.142 [main] INFO  utils.Log - Setting up driver
+2022-37-07 11:37:51.152 [main] INFO  utils.Log - Initializing Appium Driver
+2022-38-07 11:38:13.152 [main] INFO  utils.Log - Initializing mobile pages
+2022-38-07 11:38:17.827 [main] INFO  utils.Log - Closing driver
+2022-42-07 11:42:32.646 [main] INFO  utils.Log - Setting up driver
+2022-42-07 11:42:32.654 [main] INFO  utils.Log - Initializing Appium Driver
+2022-42-07 11:42:53.013 [main] INFO  utils.Log - Initializing mobile pages
+2022-42-07 11:42:59.158 [main] INFO  utils.Log - Closing driver
+2022-59-07 11:59:10.042 [main] INFO  utils.Log - Setting up driver
+2022-59-07 11:59:10.049 [main] INFO  utils.Log - Initializing Appium Driver
+2022-00-07 12:00:02.509 [main] INFO  utils.Log - Setting up driver
+2022-00-07 12:00:02.518 [main] INFO  utils.Log - Initializing Appium Driver
+2022-01-07 12:01:48.709 [main] INFO  utils.Log - Setting up driver
+2022-01-07 12:01:48.719 [main] INFO  utils.Log - Initializing Appium Driver
+2022-02-07 12:02:09.716 [main] INFO  utils.Log - Initializing mobile pages
+2022-02-07 12:02:16.522 [main] INFO  utils.Log - Closing driver
+2022-34-07 12:34:42.864 [main] INFO  utils.Log - Setting up driver
+2022-34-07 12:34:42.876 [main] INFO  utils.Log - Initializing Web Driver
+2022-34-07 12:34:42.876 [main] INFO  utils.Log - Found chrome as Browser
+2022-34-07 12:34:49.961 [main] INFO  utils.Log - Initializing web pages
+2022-34-07 12:34:50.043 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:50.043 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:50.043 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-34-07 12:34:50.044 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:50.044 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:51.371 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-34-07 12:34:51.372 [main] INFO  utils.Log - X
+2022-34-07 12:34:51.372 [main] INFO  utils.Log - X
+2022-34-07 12:34:51.372 [main] INFO  utils.Log - X
+2022-34-07 12:34:51.372 [main] INFO  utils.Log - X
+2022-34-07 12:34:51.551 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:51.551 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:51.551 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-34-07 12:34:51.551 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:51.551 [main] INFO  utils.Log - ****************************************************************************************
+2022-34-07 12:34:53.806 [main] INFO  utils.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-34-07 12:34:53.807 [main] INFO  utils.Log - X
+2022-34-07 12:34:53.807 [main] INFO  utils.Log - X
+2022-34-07 12:34:53.807 [main] INFO  utils.Log - X
+2022-34-07 12:34:53.807 [main] INFO  utils.Log - X
+2022-34-07 12:34:53.814 [main] INFO  utils.Log - Closing driver
+2022-38-07 12:38:18.504 [main] INFO  utils.Log - Setting up driver
+2022-38-07 12:38:18.515 [main] INFO  utils.Log - Initializing Appium Driver
+2022-38-07 12:38:36.603 [main] INFO  utils.Log - Initializing mobile pages
+2022-38-07 12:38:36.940 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:36.942 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:36.942 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 eri login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-38-07 12:38:36.942 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:36.942 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:43.492 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:43.492 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:43.492 [main] INFO  utils.Log - $$$$$$$$$$$$$$$$$$$$$                 eri login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-38-07 12:38:43.493 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:43.493 [main] INFO  utils.Log - ****************************************************************************************
+2022-38-07 12:38:43.653 [main] INFO  utils.Log - Closing driver

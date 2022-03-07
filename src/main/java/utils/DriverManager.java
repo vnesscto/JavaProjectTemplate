@@ -1,6 +1,5 @@
 package utils;
 
-import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
@@ -27,7 +26,7 @@ import java.util.logging.Level;
 public class DriverManager {
 
     protected static RemoteWebDriver driver;
-    DesiredCapabilities dc;
+    protected DesiredCapabilities dc;
 
     /**
      * This method calling driver initialize methods using given platform.
@@ -121,7 +120,7 @@ public class DriverManager {
      * @throws MalformedURLException Thrown to indicate that a malformed URL has occurred.
      */
     private void setAppiumDriver() throws MalformedURLException {
-        DesiredCapabilities dc = new DesiredCapabilities();
+        dc = new DesiredCapabilities();
         dc.setCapability("reportDirectory", Constants.REPORT_DIRECTORY);
         dc.setCapability("reportFormat", Constants.REPORT_FORMAT);
         dc.setCapability("testName", Constants.TEST_NAME);

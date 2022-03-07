@@ -1,4 +1,4 @@
-package bussinessprocess;
+package bussinessprocesses;
 
 import io.qameta.allure.Step;
 import utils.CommonMethods;
@@ -8,7 +8,7 @@ import utils.PropertyReader;
 /**
  * This is an example business process for calculator addition test.
  */
-public class CalculatorExample {
+public class CalculatorExampleProcess {
 
     /**
      * This Step executes CommonMethods class methods and steps to achieve addition action of the calculator app.

@@ -4,22 +4,23 @@
 
 ### Purpose
 
-<li> The main goal of this project is to reduce development time for QA automation developers.
+<li> The main goal of this project is to reduce development time for QA automation developers by providing template infrastructure for whole projects development lifecycle.
 <li> This project contains templates for automation testing of Web, Mobile and Desktop applications.
 
 ### Usage
 
 <li> Constants class contains configuration parameters (e.g. Platform, Browser Type, Initial URL)
 <li> elementsRepo.properties contains elements xpath.
-<li> In order to view allure-reports use the following command: allure serve <"allure reports dir">.
+<li> In order to view allure-reports use the following command in terminal: allure serve <"allure reports dir">.
 <li> Tests executed with testng xml suites.
 
 ### Examples
 
 <li> Web - [TestProject demo website](https://example.testproject.io/web/)
 <li> Desktop - Windows Calculator.
-<li> Web and Desktop tests examples can be found under tests package.
-<li> Both web and desktop tests are composed of page objects model, business processes and common web actions.
+<li> Mobile - Eri Bank App.
+<li> Web,Desktop and Mobile tests examples can be found under tests package.
+<li> Both web and desktop and mobile tests are composed of page objects model, business processes and common web actions.
 
 ### Infrastructure includes:
 
@@ -27,7 +28,7 @@
 <li>Page object model support
 <li>Properties file reading support
 <li>Logging system
-<li>Support for different client browsers
+<li>Support for different client browsers(WebDriver)
 <li>Desktop (WinAppDriver) support
 <li>Mobile (Appium) testing
 

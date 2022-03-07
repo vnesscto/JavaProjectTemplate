@@ -1,6 +1,6 @@
 package tests;
 
-import bussinessprocess.TestProjectExampleWebSite;
+import bussinessprocesses.TPExampleWebSiteProcess;
 import base.TestBase;
 import io.qameta.allure.Description;
 import org.testng.Assert;
@@ -21,7 +21,7 @@ public class TestLoginSample extends TestBase {
     @Description("Verify login to TestProject Demo.")
     public void login() {
         Log.startTestCase("login");
-        Boolean result = TestProjectExampleWebSite.loginToTestProject(driver);
+        Boolean result = TPExampleWebSiteProcess.loginToTestProject(driver);
         Assert.assertTrue(result);
         Log.endTestCase("login");
     }
@@ -34,8 +34,8 @@ public class TestLoginSample extends TestBase {
     @Description("Verify form saved after fill.")
     public void fillForm() {
         Log.startTestCase("Fill Form");
-        String result = TestProjectExampleWebSite.fillTestProjectForm(driver);
-        Assert.assertEquals(result, Constants.EXPECTED_TEXT);
+        String result = TPExampleWebSiteProcess.fillTestProjectForm(driver);
+        Assert.assertEquals(result, Constants.EXPECTED_TP_TEXT);
         Log.endTestCase("Fill Form");
     }
 }

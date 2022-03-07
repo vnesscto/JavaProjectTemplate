@@ -1,6 +1,7 @@
 package utils;
 
 import pages.DesktopCalculatorPage;
+import pages.MobileLoginPage;
 import pages.TestProjectFormPage;
 import pages.TestProjectLoginPage;
 
@@ -12,6 +13,9 @@ public class PageInitializer {
     // Web Pages
     public static TestProjectLoginPage testProjectLoginPage;
     public static TestProjectFormPage testProjectFormPage;
+
+    // Mobile pages
+    public static MobileLoginPage mobileLoginPage;
 
     // Desktop Pages
     public static DesktopCalculatorPage desktopCalculatorPage;
@@ -37,6 +41,6 @@ public class PageInitializer {
      * This method initializes mobile pages.
      */
     public static void initMobilePages() {
-        // Mobile pages
+        mobileLoginPage = new MobileLoginPage(DriverManager.driver);
     }
 }

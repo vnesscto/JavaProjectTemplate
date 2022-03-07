@@ -27,7 +27,7 @@ public class TestBase extends DriverManager {
                 Log.info("Initializing desktop pages");
                 break;
             case "mobile":
-                //PageInitializer.initMobilePages();
+                PageInitializer.initMobilePages();
                 Log.info("Initializing mobile pages");
                 break;
         }
