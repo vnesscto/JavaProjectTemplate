@@ -2,7 +2,7 @@
 <suite name="TestProject suite" verbose="1">
     <test name="Test Project Login and Form fill Sample">
         <classes>
-            <class name="tests.TestLoginSample"/>
+            <class name="tests.TestWebSample"/>
         </classes>
     </test>
 </suite>

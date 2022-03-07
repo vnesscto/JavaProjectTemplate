@@ -11,7 +11,7 @@ import utils.Log;
 /**
  * This is Windows Applications example test.
  */
-public class TestCalculatorSample extends TestBase {
+public class TestDesktopSample extends TestBase {
 
     /**
      * This is an addition example test using windows calculator.

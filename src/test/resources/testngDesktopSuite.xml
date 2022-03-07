@@ -2,7 +2,7 @@
 <suite name="Desktop suite" verbose="1">
     <test name="Windows calculator addition test">
         <classes>
-            <class name="tests.TestCalculatorSample"/>
+            <class name="tests.TestDesktopSample"/>
         </classes>
     </test>
 </suite>

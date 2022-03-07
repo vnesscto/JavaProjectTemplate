@@ -12,7 +12,7 @@ import utils.Log;
 /**
  * This is an example of two tests on Test Project Demo website.
  */
-public class TestLoginSample extends TestBase {
+public class TestWebSample extends TestBase {
 
     /**
      * This is a login test to test project example website.
