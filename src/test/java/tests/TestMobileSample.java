@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import utils.Log;
 
 
-public class TestEriBankSample extends TestBase {
+public class TestMobileSample extends TestBase {
 
     /**
      * This is a login test to EriBank Mobile app(Android).

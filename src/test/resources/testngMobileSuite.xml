@@ -2,7 +2,7 @@
 <suite name="Mobile suite" verbose="1">
     <test name="Eri Bank app login test">
         <classes>
-            <class name="tests.TestEriBankSample"/>
+            <class name="tests.TestMobileSample"/>
         </classes>
     </test>
 </suite>
