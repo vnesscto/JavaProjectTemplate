@@ -24,7 +24,7 @@
 <li> Desktop - Windows Calculator.
 <li> Mobile - Eri Bank App.
 <li> Web,Desktop and Mobile tests examples can be found under tests package.
-<li> Both web and desktop and mobile tests are composed of page objects model, business processes and common web actions.
+<li> Web, desktop and mobile tests are composed of page objects model, business processes and common web actions.
 
 ### Infrastructure includes:
 
