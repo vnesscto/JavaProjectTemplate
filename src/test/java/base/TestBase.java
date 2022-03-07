@@ -17,6 +17,7 @@ public class TestBase extends DriverManager {
     public void setUp() {
         Log.info("Setting up driver");
         initDriver();
+        // Init pages using platform type.
         switch (Constants.PLATFORM.toLowerCase()) {
             case "web":
                 PageInitializer.initWebPages();

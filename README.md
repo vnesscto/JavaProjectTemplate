@@ -8,6 +8,10 @@
 <li> This project contains templates for automation testing of Web, Mobile and Desktop applications.
 
 ### Usage
+<li> This project was built using JDK version 14, it is recommended to upgrade JDK to version 14.
+<li> In case no JDK upgrade was done, pom.xml must be modified according to the relevant JDK version.
+
+![jdkersion](https://user-images.githubusercontent.com/74132643/157055818-3d0738d4-6569-4d8b-9419-dd758b7fcae6.PNG)
 
 <li> Constants class contains configuration parameters (e.g. Platform, Browser Type, Initial URL)
 <li> elementsRepo.properties contains elements xpath.

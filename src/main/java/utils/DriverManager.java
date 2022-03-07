@@ -33,7 +33,7 @@ public class DriverManager {
      */
     public void initDriver() {
         switch (Constants.PLATFORM.toLowerCase()) {
-            case "web" -> {
+            case "web":
                 Log.info("Initializing Web Driver");
                 try {
                     setWebDriver();
@@ -42,8 +42,8 @@ public class DriverManager {
                     e.printStackTrace();
                     Log.error("Web Driver Failure", e);
                 }
-            }
-            case "desktop" -> {
+                break;
+            case "desktop":
                 Log.info("Initializing Windows Driver");
                 try {
                     setWindowsDriver();
@@ -51,8 +51,8 @@ public class DriverManager {
                     e.printStackTrace();
                     Log.error("Windows Driver Failure", e);
                 }
-            }
-            case "mobile" -> {
+                break;
+            case "mobile":
                 Log.info("Initializing Appium Driver");
                 try {
                     setAppiumDriver();
@@ -60,7 +60,7 @@ public class DriverManager {
                     e.printStackTrace();
                     Log.error("Android Driver Failure", e);
                 }
-            }
+                break;
         }
     }
 
@@ -69,36 +69,37 @@ public class DriverManager {
      */
     private void setWebDriver() {
         switch (Constants.BROWSER_TYPE.toLowerCase()) {
-            case "chrome" -> {
+            case "chrome":
                 Log.info("Found chrome as Browser");
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
-            }
-            case "edge" -> {
+                break;
+            case "edge":
                 WebDriverManager.edgedriver().setup();
                 driver = new EdgeDriver();
-            }
-            case "firefox" -> {
+                break;
+            case "firefox":
                 Log.info("Found firefox as Browser");
                 WebDriverManager.firefoxdriver().setup();
                 driver = new FirefoxDriver();
-            }
-            case "ie" -> {
+                break;
+            case "ie":
                 Log.info("Found IE as Browser");
                 WebDriverManager.iedriver().setup();
                 driver = new InternetExplorerDriver();
-            }
-            case "safari" -> {
+                break;
+            case "safari":
                 Log.info("Found safari as Browser");
                 WebDriverManager.safaridriver().setup();
                 driver = new SafariDriver();
-            }
-            case "opera" -> {
+                break;
+            case "opera":
                 Log.info("Found opera as Browser");
                 WebDriverManager.operadriver().setup();
                 driver = new OperaDriver();
-            }
-            default -> throw new RuntimeException("Unsupported Browser Type");
+                break;
+            default:
+                throw new RuntimeException("Unsupported Browser Type");
         }
     }
 
