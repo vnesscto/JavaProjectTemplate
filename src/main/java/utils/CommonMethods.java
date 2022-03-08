@@ -340,7 +340,7 @@ public class CommonMethods extends DriverManager {
      * @param pixel amount of pixel to be scrolled.
      */
     public static void scrollUp(int pixel) {
-        getJSObject().executeScript("window[0].scrollBy(0,-" + pixel + ")");
+        getJSObject().executeScript("window.scrollBy(0,-" + pixel + ")");
     }
 
 
@@ -350,7 +350,7 @@ public class CommonMethods extends DriverManager {
      * @param pixel amount of pixel to be scrolled.
      */
     public static void scrollDown(int pixel) {
-        getJSObject().executeScript("window[0].scrollBy(0,+" + pixel + ")");
+        getJSObject().executeScript("window.scrollBy(0," + pixel + ")");
     }
 
     /**
