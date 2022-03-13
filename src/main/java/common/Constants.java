@@ -1,4 +1,4 @@
-package utils;
+package common;
 
 /*
   This class hold constant parameters for configuration and file paths.

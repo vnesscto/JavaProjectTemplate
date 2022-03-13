@@ -2,7 +2,7 @@ package bussinessprocesses;
 
 import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
-import utils.CommonMethods;
+import common.CommonMethods;
 import utils.PageInitializer;
 import utils.PropertyReader;
 import utils.WaitForHelper;

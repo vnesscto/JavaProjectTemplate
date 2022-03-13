@@ -5,7 +5,7 @@ import base.TestBase;
 import io.qameta.allure.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import utils.Constants;
+import common.Constants;
 import utils.Log;
 
 

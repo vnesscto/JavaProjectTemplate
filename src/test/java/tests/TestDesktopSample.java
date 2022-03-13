@@ -5,7 +5,7 @@ import bussinessprocesses.CalculatorExampleProcess;
 import base.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import utils.Constants;
+import common.Constants;
 import utils.Log;
 
 /**

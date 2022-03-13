@@ -1,7 +1,7 @@
 package bussinessprocesses;
 
 import io.qameta.allure.Step;
-import utils.CommonMethods;
+import common.CommonMethods;
 import utils.PageInitializer;
 import utils.PropertyReader;
 
